@@ -19,6 +19,7 @@ export default function Navbar() {
         <ul className={styles.links}>
           <li><Link href="#features">Features</Link></li>
           <li><Link href="#journey">How It Works</Link></li>
+          <li><Link href="/faq">FAQ</Link></li>
         </ul>
       </div>
     </nav>

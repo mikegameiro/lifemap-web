@@ -18,6 +18,7 @@ export default function Footer() {
             <ul>
               <li><Link href="#features">Features</Link></li>
               <li><Link href="#journey">How It Works</Link></li>
+              <li><Link href="/faq">FAQ</Link></li>
               <li><Link href="#">Download</Link></li>
             </ul>
           </div>

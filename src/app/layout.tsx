@@ -9,11 +9,8 @@ const hankenGrotesk = Hanken_Grotesk({
 });
 
 export const metadata: Metadata = {
-  title: 'Lifemap - Find Your Purpose, Design Your Life',
+  title: 'Lifemap - Find Your Purpose, Design Your Future',
   description: 'Lifemap is a personal growth app that helps you slow down, reflect, and reconnect with what truly matters.',
-  icons: {
-    icon: '/assets/favicon.png',
-  },
 };
 
 export default function RootLayout({

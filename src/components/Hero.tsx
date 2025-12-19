@@ -9,7 +9,7 @@ export default function Hero() {
           <div className={styles.text}>
             <h1>
               Find Your Purpose,<br />
-              <span>Design Your Life</span>
+              Design Your Future
             </h1>
             <p>
               Lifemap is a personal growth app that helps you slow down, reflect, 
@@ -25,10 +25,10 @@ export default function Hero() {
           </div>
           <div className={styles.imageWrapper}>
             <Image 
-              src="/assets/mascot.png" 
-              alt="Lifemap Mascot" 
-              width={400} 
-              height={400}
+              src="/assets/landing.png" 
+              alt="Lifemap App" 
+              width={450} 
+              height={450}
               className={styles.mascot}
               priority
             />
