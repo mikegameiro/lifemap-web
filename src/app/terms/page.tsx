@@ -164,14 +164,118 @@ export default function TermsPage() {
               or other users.
             </p>
 
-            <h2>11. Governing Law</h2>
+            <h2>11. Apple App Store Terms</h2>
+            <p>
+              The following terms apply to your use of Lifemap downloaded from the Apple App Store:
+            </p>
+
+            <h3>11.1 Acknowledgement</h3>
+            <p>
+              You acknowledge that these Terms are between you and Lifemap only, not with Apple Inc. 
+              (&quot;Apple&quot;). Lifemap, not Apple, is solely responsible for the App and its content. 
+              You acknowledge that Apple has no obligation to furnish any maintenance and support 
+              services with respect to the App.
+            </p>
+
+            <h3>11.2 Scope of License</h3>
+            <p>
+              The license granted to you for the App is a non-transferable license to use the App 
+              on any Apple-branded products that you own or control, as permitted by the Usage Rules 
+              set forth in the Apple Media Services Terms and Conditions. You may not:
+            </p>
+            <ul>
+              <li>Distribute or make the App available over a network where it could be used by multiple devices at the same time</li>
+              <li>Transfer, redistribute, or sublicense the App</li>
+              <li>Copy, reverse-engineer, disassemble, attempt to derive the source code of, modify, or create derivative works of the App</li>
+            </ul>
+
+            <h3>11.3 Consent to Use of Data</h3>
+            <p>
+              You agree that Lifemap may collect and use technical data and related information—including 
+              but not limited to technical information about your device, system and application software, 
+              and peripherals—that is gathered periodically to facilitate the provision of software updates, 
+              product support, and other services related to the App. This information may be used to improve 
+              products or provide services, as long as it is in a form that does not personally identify you.
+            </p>
+
+            <h3>11.4 External Services</h3>
+            <p>
+              The App may enable access to third-party services and websites. You agree to use such External 
+              Services at your sole risk. Lifemap is not responsible for examining or evaluating the content 
+              or accuracy of any third-party External Services, and shall not be liable for any such services. 
+              You will not use the External Services in any manner that is inconsistent with these Terms or 
+              that infringes the intellectual property rights of any party.
+            </p>
+
+            <h3>11.5 No Warranty</h3>
+            <p>
+              YOU EXPRESSLY ACKNOWLEDGE AND AGREE THAT USE OF THE APP IS AT YOUR SOLE RISK. TO THE MAXIMUM 
+              EXTENT PERMITTED BY APPLICABLE LAW, THE APP AND ANY SERVICES PERFORMED OR PROVIDED BY THE APP 
+              ARE PROVIDED &quot;AS IS&quot; AND &quot;AS AVAILABLE,&quot; WITH ALL FAULTS AND WITHOUT WARRANTY OF ANY KIND. 
+              LIFEMAP HEREBY DISCLAIMS ALL WARRANTIES AND CONDITIONS WITH RESPECT TO THE APP AND ANY SERVICES, 
+              EITHER EXPRESS, IMPLIED, OR STATUTORY, INCLUDING BUT NOT LIMITED TO THE IMPLIED WARRANTIES OF 
+              MERCHANTABILITY, SATISFACTORY QUALITY, FITNESS FOR A PARTICULAR PURPOSE, ACCURACY, QUIET ENJOYMENT, 
+              AND NON-INFRINGEMENT OF THIRD-PARTY RIGHTS.
+            </p>
+
+            <h3>11.6 Limitation of Liability</h3>
+            <p>
+              TO THE EXTENT NOT PROHIBITED BY LAW, IN NO EVENT SHALL LIFEMAP BE LIABLE FOR PERSONAL INJURY 
+              OR ANY INCIDENTAL, SPECIAL, INDIRECT, OR CONSEQUENTIAL DAMAGES WHATSOEVER, INCLUDING WITHOUT 
+              LIMITATION DAMAGES FOR LOSS OF PROFITS, LOSS OF DATA, BUSINESS INTERRUPTION, OR ANY OTHER 
+              COMMERCIAL DAMAGES OR LOSSES, ARISING OUT OF OR RELATED TO YOUR USE OF OR INABILITY TO USE 
+              THE APP, HOWEVER CAUSED, REGARDLESS OF THE THEORY OF LIABILITY AND EVEN IF LIFEMAP HAS BEEN 
+              ADVISED OF THE POSSIBILITY OF SUCH DAMAGES. IN NO EVENT SHALL LIFEMAP&apos;S TOTAL LIABILITY TO 
+              YOU FOR ALL DAMAGES EXCEED THE AMOUNT OF FIFTY DOLLARS ($50.00).
+            </p>
+
+            <h3>11.7 Export Compliance</h3>
+            <p>
+              You may not use or otherwise export or re-export the App except as authorized by United States 
+              law and the laws of the jurisdiction in which the App was obtained. The App may not be exported 
+              or re-exported (a) into any U.S.-embargoed countries or (b) to anyone on the U.S. Treasury 
+              Department&apos;s Specially Designated Nationals List or the U.S. Department of Commerce Denied 
+              Persons List or Entity List.
+            </p>
+
+            <h3>11.8 Third-Party Beneficiary</h3>
+            <p>
+              You acknowledge and agree that Apple, and Apple&apos;s subsidiaries, are third-party beneficiaries 
+              of these Terms as they relate to the App, and that upon your acceptance of these Terms, Apple 
+              will have the right (and will be deemed to have accepted the right) to enforce these Terms 
+              against you as a third-party beneficiary thereof.
+            </p>
+
+            <h3>11.9 Product Claims</h3>
+            <p>
+              Lifemap, not Apple, is responsible for addressing any claims you or any third party may have 
+              relating to the App or your possession and/or use of the App, including but not limited to: 
+              (i) product liability claims; (ii) any claim that the App fails to conform to any applicable 
+              legal or regulatory requirement; and (iii) claims arising under consumer protection, privacy, 
+              or similar legislation.
+            </p>
+
+            <h3>11.10 Intellectual Property Claims</h3>
+            <p>
+              In the event of any third-party claim that the App or your possession and use of the App 
+              infringes that third party&apos;s intellectual property rights, Lifemap, not Apple, will be 
+              solely responsible for the investigation, defense, settlement, and discharge of any such 
+              intellectual property infringement claim.
+            </p>
+
+            <h2>12. Governing Law</h2>
             <p>
               These Terms shall be governed by and construed in accordance with the laws 
               of Portugal, without regard to its conflict of law provisions. Any disputes 
               arising from these Terms shall be resolved in the courts of Lisbon, Portugal.
             </p>
+            <p>
+              For users accessing the App through the Apple App Store who are citizens of 
+              European Union countries, Switzerland, Norway, or Iceland, the governing law 
+              and forum shall be the laws and courts of your usual place of residence.
+            </p>
 
-            <h2>12. Contact Information</h2>
+            <h2>13. Contact Information</h2>
             <p>
               If you have any questions about these Terms, please contact us at:
             </p>
