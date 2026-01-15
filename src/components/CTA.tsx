@@ -7,7 +7,7 @@ export default function CTA() {
           <p>Download Lifemap and begin designing the life you truly want.</p>
         </div>
         <div style={{ display: 'flex', justifyContent: 'center', gap: '16px', flexWrap: 'wrap' }}>
-          <a href="#" className="btn btn-primary">
+          <a href="https://apps.apple.com/us/app/lifemap-find-your-purpose/id6756390740" className="btn btn-primary">
             App Store
           </a>
         </div>

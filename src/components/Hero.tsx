@@ -48,7 +48,7 @@ export default function Hero() {
             </p>
 
             <div className={styles.buttons}>
-              <a href="#" className={styles.appStoreButton}>
+              <a href="https://apps.apple.com/us/app/lifemap-find-your-purpose/id6756390740" className={styles.appStoreButton}>
                 <Image 
                   src="/assets/downloadappstore.svg" 
                   alt="Download on the App Store" 

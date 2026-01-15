@@ -21,7 +21,7 @@ export default function Navbar() {
           <li><Link href="#journey">Testimonials</Link></li>
           <li><Link href="/faq">FAQ</Link></li>
         </ul>
-        <a href="#" className="btn btn-primary">
+        <a href="https://apps.apple.com/us/app/lifemap-find-your-purpose/id6756390740" className="btn btn-primary">
           Download on iOS
         </a>
       </div>

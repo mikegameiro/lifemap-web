@@ -19,7 +19,7 @@ export default function Footer() {
               <li><Link href="#features">Features</Link></li>
               <li><Link href="#journey">Testimonials</Link></li>
               <li><Link href="/faq">FAQ</Link></li>
-              <li><Link href="#">Download</Link></li>
+              <li><Link href="https://apps.apple.com/us/app/lifemap-find-your-purpose/id6756390740">Download</Link></li>
             </ul>
           </div>
           <div className={styles.links}>

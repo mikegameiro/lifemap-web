@@ -10,18 +10,18 @@ function StarIcon() {
 
 const reviews = [
   {
-    quote: "This app helped me finally understand what I truly want in life.",
-    author: "Sarah K.",
+    quote: "Lifemap is a great companion for structured reflection. It actually makes self-reflection practical. The questions are thoughtful, the progress tracking keeps you moving, and the app stays calm and distraction-free. If you want clarity and momentum, this is worth trying.",
+    author: "franlouco",
     label: "Verified user"
   },
   {
-    quote: "Simple, beautiful, and actually useful. I use it every morning.",
-    author: "Marcus T.",
+    quote: "I heavily recommend this app as it is incredibly easy and well structured to use, which is nice when it comes to actually changing your habits, schedule in order to start a new pathway for yourself into a new journey for purpose!",
+    author: "eman118118",
     label: "Verified user"
   },
   {
-    quote: "The journey feature is amazing. It's like having a personal coach.",
-    author: "Elena R.",
+    quote: "Lifemap Find Your Purpose is amazing. It guided me, helped me grow, and feel clear about my goals. This app is like having a mentor in your pocket.",
+    author: "reechuu",
     label: "Verified user"
   }
 ];
