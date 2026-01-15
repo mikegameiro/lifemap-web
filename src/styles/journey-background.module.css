@@ -1,0 +1,33 @@
+.background {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  pointer-events: none;
+  z-index: 0;
+  overflow: hidden;
+}
+
+.svg {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+
+.bush {
+  transition: transform 0.3s ease;
+}
+
+.stone {
+  transition: opacity 0.3s ease;
+}
+
+/* Hide on very small screens to avoid clutter */
+@media (max-width: 768px) {
+  .background {
+    opacity: 0.5;
+  }
+}

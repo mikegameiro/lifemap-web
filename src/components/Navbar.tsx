@@ -8,7 +8,7 @@ export default function Navbar() {
       <div className={styles.navContent}>
         <Link href="/">
           <Image 
-            src="/assets/logo.png" 
+            src="/assets/logo_noicon.png" 
             alt="Lifemap" 
             width={130} 
             height={36}
@@ -18,9 +18,12 @@ export default function Navbar() {
         </Link>
         <ul className={styles.links}>
           <li><Link href="#features">Features</Link></li>
-          <li><Link href="#journey">How It Works</Link></li>
+          <li><Link href="#journey">Testimonials</Link></li>
           <li><Link href="/faq">FAQ</Link></li>
         </ul>
+        <a href="#" className="btn btn-primary">
+          Download on iOS
+        </a>
       </div>
     </nav>
   );

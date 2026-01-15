@@ -1,8 +1,8 @@
 .hero {
-  min-height: 100vh;
+  min-height: calc(100vh - 120px);
   display: flex;
-  align-items: center;
-  padding-top: 80px;
+  align-items: flex-start;
+  padding-top: var(--space-10);
 }
 
 .content {
@@ -13,10 +13,11 @@
 }
 
 .text h1 {
-  font-size: var(--text-6xl);
+  font-size: 64px;
   font-weight: var(--font-bold);
   line-height: 1.1;
   margin-bottom: var(--space-6);
+  color: var(--color-text);
 }
 
 .text h1 span {
@@ -30,19 +31,101 @@
   max-width: 500px;
 }
 
+.socialProof {
+  display: inline-flex;
+  align-items: center;
+  gap: var(--space-3);
+  background: var(--color-card);
+  border: 1px solid var(--color-border);
+  border-radius: var(--radius-full);
+  padding: var(--space-1) var(--space-4) var(--space-1) var(--space-1);
+  margin-bottom: var(--space-5);
+}
+
+.avatars {
+  display: flex;
+}
+
+.avatar {
+  width: 32px;
+  height: 32px;
+  border-radius: 50%;
+  overflow: hidden;
+  border: 2px solid var(--color-card);
+  margin-left: -10px;
+  transition: transform 0.2s;
+}
+
+.avatar:first-child {
+  margin-left: 0;
+}
+
+.avatar:hover {
+  transform: scale(1.1);
+  z-index: 10;
+}
+
+.avatar img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.socialProofText {
+  font-size: var(--text-sm);
+  color: var(--color-text-secondary);
+}
+
+.socialProofText strong {
+  color: var(--color-text);
+  font-weight: var(--font-bold);
+}
+
 .buttons {
   display: flex;
   gap: var(--space-4);
   flex-wrap: wrap;
+  align-items: center;
+}
+
+.testimonial {
+  margin-top: var(--space-8);
+  background: rgba(0, 0, 0, 0.03);
+  border-radius: var(--radius-md);
+  padding: var(--space-4) var(--space-5);
+  max-width: 460px;
+  font-size: var(--text-sm);
+  line-height: 1.6;
+}
+
+.quote {
+  font-style: italic;
+  color: var(--color-text-secondary);
+}
+
+.authorName {
+  font-weight: var(--font-semibold);
+  color: var(--color-text);
+}
+
+.authorLabel {
+  color: var(--color-text-secondary);
+}
+
+.stars {
+  display: inline-flex;
+  gap: 1px;
+  margin-left: var(--space-2);
+  vertical-align: middle;
 }
 
 .imageWrapper {
   display: flex;
-  justify-content: center;
+  justify-content: flex-end;
 }
 
 .mascot {
-  max-width: 450px;
+  max-width: 500px;
 }
 
 @media (max-width: 968px) {
@@ -56,6 +139,11 @@
   }
 
   .text p {
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .socialProof {
     margin-left: auto;
     margin-right: auto;
   }

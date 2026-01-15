@@ -17,7 +17,7 @@ export default function Footer() {
             <h4>Product</h4>
             <ul>
               <li><Link href="#features">Features</Link></li>
-              <li><Link href="#journey">How It Works</Link></li>
+              <li><Link href="#journey">Testimonials</Link></li>
               <li><Link href="/faq">FAQ</Link></li>
               <li><Link href="#">Download</Link></li>
             </ul>
